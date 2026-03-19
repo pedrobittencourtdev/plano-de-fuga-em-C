@@ -102,10 +102,10 @@ else               fim    = meio - 1; // busca na esquerda
 
 ```bash
 # Compilar
-gcc -o torre_de_fuga torre_de_fuga.c
+gcc fuga.c -o fuga
 
 # Executar
-./torre_de_fuga
+./fuga
 ```
 
 ---
